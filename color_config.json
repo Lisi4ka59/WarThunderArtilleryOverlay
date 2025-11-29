@@ -1,0 +1,66 @@
+{
+    "red1": [
+        0,
+        120,
+        70
+    ],
+    "red2": [
+        10,
+        255,
+        255
+    ],
+    "red3": [
+        170,
+        120,
+        70
+    ],
+    "red4": [
+        180,
+        255,
+        255
+    ],
+    "yellow1": [
+        9,
+        143,
+        107
+    ],
+    "yellow2": [
+        40,
+        255,
+        255
+    ],
+    "warm_yellow1": [
+        15,
+        19,
+        232
+    ],
+    "warm_yellow2": [
+        27,
+        239,
+        255
+    ],
+    "blue1": [
+        85,
+        67,
+        36
+    ],
+    "blue2": [
+        128,
+        230,
+        212
+    ],
+    "enemy_spawn_threshold": 67,
+    "marker_yellow_threshold": 35,
+    "marker_blue_threshold": 27,
+    "marker_user_threshold": 20,
+    "warm-yellow1": [
+        19,
+        169,
+        207
+    ],
+    "warm-yellow2": [
+        35,
+        227,
+        255
+    ]
+}
